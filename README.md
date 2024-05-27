@@ -1,4 +1,4 @@
-Kingdom Builder Board Game created in Java using JavaFX
+Kingdom Builder Board Game created in Java using JavaFX implementing a hexagonal weighted graph and a modified BFS algorithm to store and score users' settlements.
 
 rules and guide: https://rules.queen-games.com/kingdom-builder_en.pdf
 
